@@ -1,0 +1,15 @@
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/bin/Debug/net6.0/lesson_one_hello
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/bin/Debug/net6.0/lesson_one_hello.deps.json
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/bin/Debug/net6.0/lesson_one_hello.runtimeconfig.json
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/bin/Debug/net6.0/lesson_one_hello.dll
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/bin/Debug/net6.0/lesson_one_hello.pdb
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.csproj.AssemblyReference.cache
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.AssemblyInfoInputs.cache
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.AssemblyInfo.cs
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.csproj.CoreCompileInputs.cache
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.dll
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/refint/lesson_one_hello.dll
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.pdb
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/lesson_one_hello.genruntimeconfig.cache
+/Users/sergey/Desktop/GB/lesson_one/lesson_one_hello/obj/Debug/net6.0/ref/lesson_one_hello.dll
